@@ -6,6 +6,5 @@
 - Any acadamic support and correction are welcome.
 - Keep it positive and friendly, positive vibes only.
 <!--
-Andrei0621/Andrei0621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Andrei0621/Andrei0621 is a dedicated and motivated individual who knows no boundaries. In a world of code impossibility is a dictionary word. keep in touch and lets collaborate
 --->
